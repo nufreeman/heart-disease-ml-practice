@@ -1,0 +1,10 @@
+lightautoml
+matplotlib
+missingno
+numpy
+optuna
+pandas
+seaborn
+scikit-learn
+torch
+tqdm

@@ -1,0 +1,22 @@
+# data & artifacts
+data/
+*.csv
+*.parquet
+*.feather
+*.xlsx
+*.pkl
+*.pickle
+
+# notebooks
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.env/
