@@ -1,4 +1,14 @@
 # Heart Disease Risk (Practice) — Classic ML
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-informational.svg)
+![Pandas](https://img.shields.io/badge/Pandas-2.x-informational.svg)
+![NumPy](https://img.shields.io/badge/NumPy-1.x-informational.svg)
+![XGBoost](https://img.shields.io/badge/XGBoost-2.x-informational.svg)
+![CatBoost](https://img.shields.io/badge/CatBoost-1.x-informational.svg)
+![LightAutoML](https://img.shields.io/badge/LightAutoML-LAMA-informational.svg)
 
 > ⚠️ **Disclaimer**: This is a practice/portfolio project based on a small, noisy dataset. Results are **not** for medical use.
 
